@@ -21,7 +21,7 @@
     margin: 0 auto;
   }
 }
-@media only screen and (max-width: 923px) {
+@media only screen and (max-width: 1025px) {
   .header-bg-img {
     width: 100%;
     height: auto;
