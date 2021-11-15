@@ -7,6 +7,18 @@
     .titlediv{
         text-align: center;
     }
+    .sectiondiv2 {
+        height: auto;
+        justify-content: center;
+    }
+    .image2{
+        margin: 0;
+    }
+    .image1{
+        margin-bottom: 15px;
+    }
+    
+
     .sectiontitle2{
         margin: 0 auto;
     }
@@ -30,6 +42,10 @@
         display: flex;
         flex-wrap: wrap;
     }
+    .image1{
+        margin-right: 10px;
+    }
+    
     .box {
         width: 45%;
         margin-bottom: 50px;
@@ -87,6 +103,7 @@
                 text-align: center;
         }
         .image1 {
+            margin-right: 0;
             margin-bottom: 15px;
         }
         .image2{
